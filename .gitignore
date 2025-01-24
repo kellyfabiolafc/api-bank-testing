@@ -1,0 +1,22 @@
+
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# Maven target folder
+/target/
+
+# Log files
+*.log
+
+# Dependency folders
+/.m2/
+
+# Temporary files
+*.swp
+*.swo
