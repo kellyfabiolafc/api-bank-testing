@@ -23,7 +23,7 @@ Antes de ejecutar las pruebas, asegúrate de tener instalado lo siguiente:
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/api-bank-testing.git
+    git clone https://github.com/kellyfabiolafc/api-bank-testing.git
     ```
 
 2. Navega al directorio del proyecto:
